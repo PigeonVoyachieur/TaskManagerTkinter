@@ -3,4 +3,4 @@ The interface is made with tkinter, it is a simple interface.
 
 Below the PDF including a step-by-step guide to create this script:
 
-https://github.com/PigeonVoyachieur/TaskManagerTkinter/files/14407506/Projet_1_Python.pdf
+https://github.com/PigeonVoyachieur/TaskManagerTkinter/files/14407539/Projet_Gestionnaire_de_taches_avec_tkinter.pdf
